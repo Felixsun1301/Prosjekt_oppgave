@@ -3,11 +3,11 @@
 ## 1. Forside
 
 **Prosjekttittel:**\
-**Navn:**\
-**Klasse:**\
-**Dato:**
+**Navn: Felix**\
+**Klasse: 2IMI**\
+**Dato: 12.11.25**
 
-**Kort beskrivelse av prosjektet:**\
+**Kort beskrivelse av prosjektet: Applikasjonen min bygger på barberyrket mitt med tanke på hovr lenge **\
 *Skriv 2--4 setninger om hva applikasjonen gjør og hvilket tema den
 bygger på.*
 
