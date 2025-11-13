@@ -2,21 +2,24 @@
 
 ## 1. Forside
 
-**Prosjekttittel:**\
-**Navn: Felix**\
-**Klasse: 2IMI**\
-**Dato: 12.11.25**
+**Barberens tidssporing:**\
+**Felix**\
+**2IMI**\
+**11.11.25**
 
-**Kort beskrivelse av prosjektet: Applikasjonen min bygger på barberyrket mitt med tanke på hvor lenge jeg bvruker på hver kunde, og hvilken behandling de valgte med tanke på hårtypen deres**\
-*Skriv 2--4 setninger om hva applikasjonen gjør og hvilket tema den
-bygger på.*
+Applikasjonen min bygger på barberyrket mitt Barberens tidssporing er et digitalt system som hjelper barberen å holde oversikt over kunder, hårtype, behandlingstyper og hvor lang tid hver behandling tar. Systemet gjør det enkelt å loggføre hver kunde, lagre informasjon om hårtype, pris og tidsbruk, og vise statistikk over arbeidet.
+Prosjektet er utviklet med Flask, MariaDB og Raspberry Pi og kombinerer programmering, databasestruktur og drift i ett fungerende system.
 
+ 
 ------------------------------------------------------------------------
 
 ## 2. Systembeskrivelse
 
 **Formål med applikasjonen:**\
-*Forklar hva du ønsket å oppnå med prosjektet.*
+*Formålet med applikasjonen Barberens tidssporing er å lage et enkelt system som hjelper en barber med å holde oversikt over kundene sine.
+Jeg ville lage et sted der jeg kan registrere informasjon om hver kunde, som hårtype, behandling, pris og hvor lang tid jeg brukte.
+På den måten kan jeg lettere se hva slags behandlinger som tar mest tid, og få bedre kontroll over arbeidet mitt.
+Jeg ønsket også å vise at jeg kan bruke Flask og MariaDB sammen, og sette opp alt på en Raspberry Pi slik at systemet kjører som en ekte webapplikasjon.
 
 **Brukerflyt:**\
 *Beskriv hvordan brukeren bruker løsningen -- fra startside til lagring
