@@ -7,6 +7,7 @@
 **2IMI**\
 **11.11.25**
 
+**Beskrivelse:**
 Applikasjonen min bygger på barberyrket mitt Barberens tidssporing er et digitalt system som hjelper barberen å holde oversikt over kunder, hårtype, behandlingstyper og hvor lang tid hver behandling tar. 
 
 Systemet gjør det enkelt å loggføre hver kunde, lagre informasjon om hårtype, pris og tidsbruk, og vise statistikk over arbeidet.
@@ -17,12 +18,13 @@ Prosjektet er utviklet med Flask, MariaDB og Raspberry Pi og kombinerer programm
 
 ## 2. Systembeskrivelse
 
+**Formål med applikasjonen:** 
 Formålet med applikasjonen Barberens oversikt er å lage et enkelt system som hjelper en barber med å holde oversikt over kundene sine.
 Jeg ville lage et sted der jeg kan registrere informasjon om hver kunde, som hårtype, behandling, pris og hvor lang tid jeg brukte.
 På den måten kan jeg lettere se hva slags behandlinger som tar mest tid, og få bedre kontroll over arbeidet mitt.
 Jeg ønsket også å vise at jeg kan bruke Flask og MariaDB sammen, og sette opp alt på en Raspberry Pi slik at systemet kjører som en ekte webapplikasjon.
 
-**Brukerflyt**/
+**Brukerflyt:**
 *Nettsiden er ganske simpel på hjemmsiden ser du en knapp, hvor det står legg inn kunde. Du kommer dermed inn på en helt ny side der du fyller på ønskendene informasjon om kunden.*
 
 **Teknologier brukt:**
@@ -36,7 +38,7 @@ Jeg ønsket også å vise at jeg kan bruke Flask og MariaDB sammen, og sette opp
 
 ## 3. Server-, infrastruktur- og nettverksoppsett
 
-I dette prosjektet brukte jeg en rasberry pi som fungerer som en liten fysisk server. Rasberry pi 
+I dette prosjektet brukte jeg en rasberry pi som fungerer som en liten fysisk server. Rasberry beholder alle data jeg legger inn    
 
 ### Servermiljø
 
