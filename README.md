@@ -25,7 +25,7 @@ På den måten kan jeg lettere se hva slags behandlinger som tar mest tid, og f�
 Jeg ønsket også å vise at jeg kan bruke Flask og MariaDB sammen, og sette opp alt på en Raspberry Pi slik at systemet kjører som en ekte webapplikasjon.
 
 **Brukerflyt:**
-*Nettsiden er ganske simpel på hjemmsiden ser du en knapp, hvor det står legg inn kunde. Du kommer dermed inn på en helt ny side der du fyller på ønskendene informasjon om kunden.*
+Nettsiden er ganske simpel på hjemmsiden ser du en knapp, hvor det står legg inn kunde. Du kommer dermed inn på en helt ny side der du fyller på ønskendene informasjon om kunden.
 
 **Teknologier brukt:**
 
