@@ -2,7 +2,7 @@
 
 ## 1. Forside
 
-**Barberens Oversikt**\
+**Barbertid**\
 **Felix**\
 **2IMI**\
 **11.11.25**
