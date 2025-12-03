@@ -2,7 +2,7 @@
 
 ## 1. Forside
 
-**Barberhjerne**\
+**Barberenstid**\
 **Felix**\
 **2IMI**\
 **11.11.25**
