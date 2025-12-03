@@ -30,7 +30,7 @@ Nettsiden er ganske simpel på hjemmsiden ser du en knapp, hvor det står legg i
 **Teknologier brukt:**
 
 -   Python / Flask\
--   MariaDB\
+-   MariaDB\ - database for kundedata og behandlinger
 -   HTML / CSS / JS\
 -   (valgfritt) Docker / Nginx / Gunicorn / Waitress osv.
 
