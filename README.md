@@ -2,7 +2,7 @@
 
 ## 1. Forside
 
-**Barbertid**\
+**Barberhjerne**\
 **Felix**\
 **2IMI**\
 **11.11.25**
